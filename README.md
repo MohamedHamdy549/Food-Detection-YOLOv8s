@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python yolov8_basics.py
 ```
 
-![YoloV8 Basic Output](inference/out.JPG)
+![YoloV8 Basic Output](inference/runs/outImg.jpg)
 
 
 
