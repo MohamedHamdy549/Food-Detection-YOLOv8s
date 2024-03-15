@@ -1,0 +1,15 @@
+apple
+banana
+beet
+bell_pepper
+cabbage
+carrot
+cucumber
+egg
+eggplant
+garlic
+onion
+orange
+potato
+tomato
+zucchini
